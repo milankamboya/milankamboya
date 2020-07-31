@@ -1,5 +1,4 @@
-![Milan got an idea.](images/mk.png)
-![Bad thing happens :)](./iamges/mk.png?raw=true "Milan Got An Idea")
+![Bad thing happens :)](./images/mk.png?raw=true "Milan Got An Idea")
 
 ## Hi There 👋, Myself Milan. :)
 
