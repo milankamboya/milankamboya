@@ -1,6 +1,6 @@
 ## Hi There 👋, Myself Milan 😊
 
-![Milan Kamboya - Sr. software engineer](https://github.com/milankamboya/milankamboya/blob/master/images/mk.jpg "Milan Got An Idea")
+![Milan Kamboya - Sr. software engineer](https://github.com/milankamboya/milankamboya/blob/master/images/mk.png "Milan Got An Idea")
 
 
 ### My Goals for 2020
