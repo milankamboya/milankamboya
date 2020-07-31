@@ -1,4 +1,4 @@
-![Bad thing happens :)](images/mk.jpg?raw=true "Milan Got An Idea")
+<img src="images/mk.jpg" alt="Milan Kamboya - Sr. software engineer">
 
 ## Hi There 👋, Myself Milan 😊
 
