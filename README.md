@@ -1,16 +1,18 @@
-### Hi there 👋
+![Milan got an idea.](images/mk.png)
 
-<!--
-**milankamboya/milankamboya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hi There 👋, Myself Milan. :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###My Goals for 2020
+-------------------
+- Learn as much as possible
+- Be Happy & Active
+- Keep myself fit
+- Good Daddy
+- Takecare & help your dear and near ones
+<br/>
+
+###Get in touch
+-------------------
+- Twitter: https://twitter.com/milankamboya
+- LinkedIn: https://www.linkedin.com/in/milankamboya/
