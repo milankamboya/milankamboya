@@ -1,6 +1,6 @@
-<img src="images/mk.jpg" alt="Milan Kamboya - Sr. software engineer">
-
 ## Hi There 👋, Myself Milan 😊
+
+![Milan Kamboya - Sr. software engineer](./images/mk.jpg?raw=true "Milan Got An Idea")
 
 
 ### My Goals for 2020
