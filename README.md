@@ -1,4 +1,4 @@
-![Bad thing happens :)](images/mk.png?raw=true "Milan Got An Idea")
+![Bad thing happens :)](images/mk.jpg?raw=true "Milan Got An Idea")
 
 ## Hi There 👋, Myself Milan 😊
 
