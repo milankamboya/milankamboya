@@ -8,7 +8,7 @@
 - Learn as much as possible
 - Be Happy & Active
 - Keep myself fit
-- to be a best Daddy
+- To be a best daddy
 - Takecare & help your dear and near ones
 <br/>
 
