@@ -1,6 +1,6 @@
-![Bad thing happens :)](./images/mk.png?raw=true "Milan Got An Idea")
+![Bad thing happens :)](images/mk.png?raw=true "Milan Got An Idea")
 
-## Hi There 👋, Myself Milan. :)
+## Hi There 👋, Myself Milan 😊
 
 
 ### My Goals for 2020
