@@ -3,7 +3,7 @@
 ![Milan Kamboya - Sr. software engineer](https://github.com/milankamboya/milankamboya/blob/master/images/mk.png "Milan Got An Idea")
 
 
-### My Goals for 2020
+### My Goals for 2021
 -------------------
 - Learn as much as possible
 - Be Happy & Active
