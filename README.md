@@ -7,7 +7,7 @@ I am passionate about:
 • Facilitating teaching, learning, and understanding at all levels
 • Enjoying both work and life
 
-With having over 12+ years of experience in Technology,
+With having over 12.5+ years of experience in Technology,
 My excitements and responsibilities at NstackSoftech LLP :
 
  - Lead the strategy for technology platforms, partnerships and external relationships
@@ -23,7 +23,7 @@ My excitements and responsibilities at NstackSoftech LLP :
  - Take the initiative in thought leadership, innovation and creativity
  - Work closely with Marketing, Business Development and Operations to define and deliver new products and enhancements
 
-Reach out to me on ***milan@nstacksoftech.com*** to build your next idea/product/solution.
+Reach out to me on ***milankamboya90@gmail.com*** to build your next idea/product/solution.
 
 Want to know what NstackSoftech LLP does?
 Visit :
