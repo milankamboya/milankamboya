@@ -27,8 +27,7 @@ Reach out to me on ***milankamboya90@gmail.com*** to build your next idea/produc
 
 Want to know what NstackSoftech LLP does?
 Visit :
-- https://in.linkedin.com/company/nstacksoftech 
-- https://www.nstacksoftech.com/
+- LinkedIn: https://www.linkedin.com/in/milankamboya/
 
 ![ERP - Enterprise Resource Planning](https://github.com/milankamboya/milankamboya/blob/master/images/7063226.jpg)
 [Image by <a href="https://www.freepik.com/free-vector/erp-infographic_25106209.htm#query=erp&position=7&from_view=keyword&track=sph&uuid=81947da3-d7ae-426b-a0b7-1c64124477d1">Freepik</a>]
