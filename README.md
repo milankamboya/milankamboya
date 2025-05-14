@@ -8,7 +8,7 @@ I am passionate about:
 • Enjoying both work and life
 
 With having over 12.5+ years of experience in Technology,
-My excitements and responsibilities at NstackSoftech LLP :
+My excitements and responsibilities :
 
  - Lead the strategy for technology platforms, partnerships and external relationships
  - Represent the technological agenda in staff meetings and when making hiring decisions
@@ -25,8 +25,8 @@ My excitements and responsibilities at NstackSoftech LLP :
 
 Reach out to me on ***milankamboya90@gmail.com*** to build your next idea/product/solution.
 
-Want to know what NstackSoftech LLP does?
-Visit :
+Want to get in touch? Book call here : https://cal.com/milankamboya/30min
+Or Visit :
 - LinkedIn: https://www.linkedin.com/in/milankamboya/
 
 ![ERP - Enterprise Resource Planning](https://github.com/milankamboya/milankamboya/blob/master/images/7063226.jpg)
